@@ -4,4 +4,5 @@
   <artifactId>maven-git-test</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
+  <!-- 添加注释 -->
 </project>
