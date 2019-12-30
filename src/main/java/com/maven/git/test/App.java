@@ -5,7 +5,7 @@ package com.maven.git.test;
  *
  */
 public class App {
-
+	//这是一个main方法
 	public static void main(String[] args) {
 		//打印语句
 		System.out.println("hello");
